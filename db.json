@@ -25,7 +25,7 @@
       "following": 321,
       "posts": [
         { "id": 201, "title": "Exploring the Alps", "likes": 120, "comments": 25 },
-        { "id": 202, "title": "Photography Tips for Beginners", "likes": 90, "comments": 20 }
+        { "id": 202, "title": "Photography Tips for Beginners", "likes": 90, "comments": 21 }
       ]
     }
   ]
