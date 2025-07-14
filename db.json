@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "johndoe",
+      "email": "john.doe@example.com",
+      "fullName": "John Doe",
+      "bio": "Passionate about technology and open source.",
+      "profilePicture": "https://example.com/profiles/johndoe.jpg",
+      "followers": 1234,
+      "following": 567,
+      "posts": [
+        { "id": 101, "title": "My First Tech Blog", "likes": 50, "comments": 10 },
+        { "id": 102, "title": "Open Source Contributions", "likes": 75, "comments": 15 }
+      ]
+    },
+    {
+      "id": 2,
+      "username": "janesmith",
+      "email": "jane.smith@example.com",
+      "fullName": "Jane Smith",
+      "bio": "Travel enthusiast and amateur photographer.",
+      "profilePicture": "https://example.com/profiles/janesmith.jpg",
+      "followers": 987,
+      "following": 321,
+      "posts": [
+        { "id": 201, "title": "Exploring the Alps", "likes": 120, "comments": 25 },
+        { "id": 202, "title": "Photography Tips for Beginners", "likes": 90, "comments": 20 }
+      ]
+    }
+  ]
+}
